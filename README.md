@@ -1,7 +1,7 @@
 # Charts
 Chart.js tool for OpenWebUI
 
-<img width="1083" height="619" alt="Screenshot" src="https://github.com/user-attachments/assets/f729a60f-8956-4049-b3b5-8f43ecc36c2b" />
+<img width="1065" height="583" alt="Screenshot 2025-10-04 alle 11 45 38" src="https://github.com/user-attachments/assets/86acca0f-462d-4fea-b20b-0cb68c15fe61" />
 
 Charts is a tool for OpenWebUI that allows you to create charts using the Chart.js cdn. The tool will embed the resulting chart directly into the chat using the RichUI functions implemented in openwebui 0.6.3.x.
 
