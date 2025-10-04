@@ -13,3 +13,4 @@ Try one of these prompts in chat:
 
 In the top right graph, there is a theme toggle and a download button to download a PNG.
 
+<img width="1824" height="880" alt="Market" src="https://github.com/user-attachments/assets/d79dae66-61fa-47d9-b18e-e057797a190d" />
